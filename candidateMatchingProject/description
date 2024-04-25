@@ -1,0 +1,5 @@
+AI-powered Candidate Selection System:
+Implemented a Python project leveraging AI and chat GPT to identify the best candidates from the pool for internal job postings.
+Used Natural Language Processing (NLP) techniques to analyze job postings and candidate resumes, extracting key information such as skills, experience, and qualifications.
+Employed machine learning algorithms, including Random Forest, Gradient Boosting and Neural Networks, to match candidate profiles with job requirements and preferences, enhancing the recruitment process's efficiency and effectiveness.
+Developed a user-friendly interface to facilitate interaction between recruiters and the system, allowing for seamless candidate selection and hiring decisions.
